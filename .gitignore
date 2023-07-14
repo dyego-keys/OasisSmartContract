@@ -1,0 +1,21 @@
+# Truffle artifacts
+build/**
+
+# Truffle development keys (replace with your actual key file names if necessary)
+.env
+
+# Dependencies
+node_modules/
+package-lock.json
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+
+# Compiled files
+*.log
+
+# Miscellaneous
+*.swp
+.DS_Store
+Thumbs.db
